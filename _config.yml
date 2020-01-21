@@ -2,11 +2,11 @@
 baseurl: "https://felixzangerl.github.io/photography/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+google_analytics: ""
 
 # UI configs
 title: "Photography by Felix Zangerl"
-subtitle: "See the world through my eyes!"
+subtitle: "..."
 author: "Felix Zangerl"
 header:
  title: "Photography"
