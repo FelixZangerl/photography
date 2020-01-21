@@ -13,7 +13,10 @@ header:
  subtitle: "by Felix Zangerl"
 footer:
  name: "Felix Zangerl"
- bio: "photographer based in Vienna \nhit me up via felix.zangerl[at]gmail.com and follow me on Social Media"
+ bio: >
+"photographer based in Vienna 
+hit me up via felix.zangerl[at]gmail.com 
+and follow me on Social Media"
  github: ""
 web_design: "AJ"
 social_urls:
