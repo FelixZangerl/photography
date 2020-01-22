@@ -12,8 +12,14 @@ header:
  title: "Photography"
  subtitle: "by Felix Zangerl"
 footer:
+<<<<<<< HEAD
  name: "Hey there, my name is Felix"
  bio: "..."
+=======
+ name: "Felix Zangerl"
+ bio: "photographer based in Vienna hit me up via felix.zangerl[at]gmail.com and follow me on Social Media"
+ github: ""
+>>>>>>> 0511631e3c85400a08b0f2ce07723342f4f9f31b
 web_design: "AJ"
 social_urls:
   facebook: "https://www.facebook.com/FelixZangerl"
